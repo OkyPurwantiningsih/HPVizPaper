@@ -1,0 +1,128 @@
+\begin{thebibliography}{10}
+
+\bibitem{aigner}
+W.~Aigner, S.~Miksch, H.~Schumann, and C.~Tominski.
+\newblock {\em Visualization of Time-Oriented Data}.
+\newblock Human-Computer Interaction Series. Springer, 2011.
+
+\bibitem{adrienko_book}
+G.~L. Andrienko, N.~V. Andrienko, P.~Bak, D.~A. Keim, and S.~Wrobel.
+\newblock {\em Visual Analytics of Movement}.
+\newblock Springer, 2013.
+
+\bibitem{adrienko}
+N.~V. Andrienko and G.~L. Andrienko.
+\newblock Spatial generalization and aggregation of massive movement data.
+\newblock {\em IEEE Trans. Vis. Comput. Graph.}, 17(2):205--219, 2011.
+
+\bibitem{bernard2013}
+J.~Bernard, N.~Wilhelm, B.~Kr{\"u}ger, T.~May, T.~Schreck, and J.~Kohlhammer.
+\newblock Motionexplorer: Exploratory search in human motion capture data based
+  on hierarchical aggregation.
+\newblock {\em IEEE Trans. Vis. Comput. Graph.}, 19(12):2257--2266, 2013.
+
+\bibitem{byron}
+L.~Byron and M.~Wattenberg.
+\newblock Stacked graphs -- geometry \& aesthetics.
+\newblock {\em IEEE Trans. Vis. Comput. Graph.}, 14(6):1245--1252, 2008.
+
+\bibitem{chmelik}
+J.~Chmelik and J.~Sochor.
+\newblock Body motion visualization in virtual environment.
+\newblock In {\em Proceedings of the Conference on Geometry and Graphics},
+  pages 119--124, 2010.
+
+\bibitem{diloreto}
+I.~Di~Loreto, B.~Lange, A.~Seilles, W.~Dyce, and S.~Andary.
+\newblock Game design for all: The example of hammer and planks.
+\newblock {\em Serious Games Development and Applications}, 8101:70--75, 2013.
+
+\bibitem{alan}
+A.~Dix and G.~Ellis.
+\newblock Starting simple: Adding value to static visualisation through simple
+  interaction.
+\newblock In {\em Proceedings of the Working Conference on Advanced Visual
+  Interfaces (AVI)}, pages 124--134, 1998.
+
+\bibitem{friendly}
+M.~Friendly.
+\newblock The history of the cluster heat map.
+\newblock {\em The American Statistician}, 2009.
+
+\bibitem{gatalsky}
+P.~Gatalsky, N.~Andrienko, and G.~Andrienko.
+\newblock Interactive analysis of event data using space-time cube.
+\newblock In {\em Proceedings of the International Conference on Information
+  Visualisation (IV)}, pages 145--152, 2004.
+
+\bibitem{gavrila}
+D.~Gavrila.
+\newblock The visual analysis of human movement.
+\newblock {\em Comput. Vis. Image Underst.}, 73(1):82--98, 1999.
+
+\bibitem{havre}
+S.~Havre, B.~Hetzler, and L.~Nowell.
+\newblock Themeriver: Visualizing theme changes over time.
+\newblock In {\em Proceedings of the IEEE Symposium on Information
+  Vizualization (InfoVis)}, pages 115--123, 2000.
+
+\bibitem{heryadi}
+Y.~Heryadi, M.~I. Fanany, and A.~Arymurthy.
+\newblock Grammar of dance gesture from bali traditional dance.
+\newblock {\em International Journal of Computer Science Issues}, 9:144--149,
+  2012.
+
+\bibitem{huron}
+S.~Huron, R.~Vuillemot, and J.-D. Fekete.
+\newblock Visual sedimentation.
+\newblock {\em IEEE Trans. Vis. Comput. Graph.}, 19(12):2446--2455, 2013.
+
+\bibitem{maimon}
+O.~Maimon and L.~Rokach.
+\newblock {\em Data Mining and Knowledge Discovery Handbook}.
+\newblock Springer-Verlag New York, Inc., 2005.
+
+\bibitem{patsadu}
+O.~Patsadu, C.~Nukoolkit, and B.~Watanapa.
+\newblock Human gesture recognition using kinect camera.
+\newblock In {\em Proceedings of the International Joint Conference on Computer
+  Science and Software Engineering}, pages 28--32, 2012.
+
+\bibitem{rahman2}
+A.~Rahman.
+\newblock Multimedia environment toward analyzing and visualizing live
+  kinematic data for children with hemiplegia.
+\newblock {\em Multimedia Tools and Applications}, 74(15):5463--5487, 2015.
+
+\bibitem{rahman}
+A.~Rahman.
+\newblock Multisensor serious game-based therapy environment for hemiplegic
+  patients.
+\newblock {\em International Journal of Distributed Sensor Networks}, 2015:12,
+  2015.
+
+\bibitem{raptis}
+M.~Raptis, D.~Kirovski, and H.~Hoppe.
+\newblock Real-time classification of dance gestures from skeleton animation.
+\newblock In {\em Proceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, pages 147--156, 2011.
+
+\bibitem{yuko}
+Y.~Tashiro and T.~Saitoh.
+\newblock A study on motion visualization system using motion capture data.
+\newblock In {\em Proceedings of the International Conference on Artificial
+  Reality and Telexistence}, pages 314--315, 2007.
+
+\bibitem{tominski}
+C.~Tominski, P.~Schulze-Wollgast, and H.~Schumann.
+\newblock 3d information visualization for time dependent data on maps.
+\newblock In {\em Proceedings of the International Conference on Information
+  Visualisation (IV)}, pages 175--181, 2005.
+
+\bibitem{turdukulov}
+U.~D. Turdukulov, M.-J. Kraak, and C.~A. Blok.
+\newblock Visual analytics: Designing a visual environment for exploration of
+  time series of remote sensing data: In search for convective clouds.
+\newblock {\em Comput. Graph.}, 31(3):370--379, 2007.
+
+\end{thebibliography}
