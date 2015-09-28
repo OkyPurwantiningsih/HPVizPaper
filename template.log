@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.3)  23 SEP 2015 18:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.3)  25 SEP 2015 16:41
 entering extended mode
 **template.tex
 (C:\Users\Advanse-\Documents\paper\HPViz_Paper\template.tex
@@ -345,19 +345,19 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@roff=\dimen136
 ))
 (C:\Users\Advanse-\Documents\paper\HPViz_Paper\template.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
-LaTeX Font Info:    ... okay on input line 116.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 116.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 117.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
@@ -382,61 +382,61 @@ Package caption Info: End \AtBeginDocument code.
 \makeMPintoPDFobject=\count119
 \everyMPtoPDFconversion=\toks28
 )
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 124.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 125.
 
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 125.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 12
-4.
+5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 12
-4.
+5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 12
-4.
+5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 12
-4.
+5.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
-LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
+LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.44003> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <9> not available
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 140.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 141.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
@@ -445,18 +445,21 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 
 
 ] [2]
-Underfull \hbox (badness 2035) in paragraph at lines 188--189
+Underfull \hbox (badness 2035) in paragraph at lines 189--190
 []\OT1/ptm/m/n/9 One ex-am-ple of time-series vi-su-al-iza-tion tech-nique whic
 h
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 202--203
+Underfull \hbox (badness 3158) in paragraph at lines 203--204
 []\OT1/ptm/m/n/9 MotionExplorer [[]] in-tro-duced hu-man mo-tion ex-ploratory
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [3] [4]
-Overfull \hbox (15.15303pt too wide) detected at line 303
+Overfull \hbox (15.15303pt too wide) detected at line 304
 \OML/ztmcm/m/it/9 g[]\OT1/ztmcm/m/n/9 ([][]\OML/ztmcm/m/it/9 ; [][]\OT1/ztmcm/m
 /n/9 ) = []
  []
@@ -465,43 +468,43 @@ Overfull \hbox (15.15303pt too wide) detected at line 303
 File: images/interface_all3.png Graphic file (type png)
 
 <use images/interface_all3.png>
-Package pdftex.def Info: images/interface_all3.png used on input line 331.
+Package pdftex.def Info: images/interface_all3.png used on input line 332.
 (pdftex.def)             Requested size: 512.1496pt x 184.78758pt.
 
-Overfull \hbox (6.2596pt too wide) in paragraph at lines 331--332
+Overfull \hbox (6.2596pt too wide) in paragraph at lines 332--333
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
 [][]$\OT1/pcr/m/n/8 http : / / www . nytimes . com / interactive / 2008 / 02 / 
 23 /$
  []
 
-<images/layout.png, id=27, 800.9925pt x 380.92313pt>
+<images/layout.png, id=28, 800.9925pt x 380.92313pt>
 File: images/layout.png Graphic file (type png)
  <use images/layout.png>
-Package pdftex.def Info: images/layout.png used on input line 343.
-(pdftex.def)             Requested size: 256.0748pt x 121.78163pt.
+Package pdftex.def Info: images/layout.png used on input line 344.
+(pdftex.def)             Requested size: 241.84842pt x 115.01018pt.
 
-Overfull \hbox (15.1298pt too wide) in paragraph at lines 343--344
+Overfull \hbox (0.90343pt too wide) in paragraph at lines 344--345
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--351
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
 [][]$\OT1/pcr/m/n/8 https : / / en . wikipedia . org / wiki / Population _$
  []
 
 [5 <C:/Users/Advanse-/Documents/paper/HPViz_Paper/images/layout.png>]
-<images/case_study_all2.png, id=32, 1427.3325pt x 820.56563pt>
+<images/case_study_all2.png, id=33, 1427.3325pt x 820.56563pt>
 File: images/case_study_all2.png Graphic file (type png)
 
 <use images/case_study_all2.png>
-Package pdftex.def Info: images/case_study_all2.png used on input line 356.
+Package pdftex.def Info: images/case_study_all2.png used on input line 357.
 (pdftex.def)             Requested size: 512.1496pt x 294.42677pt.
 
-Overfull \hbox (6.2596pt too wide) in paragraph at lines 356--357
+Overfull \hbox (6.2596pt too wide) in paragraph at lines 357--358
  [][] 
  []
 
@@ -516,11 +519,11 @@ Underfull \hbox (badness 1400) in paragraph at lines 19--23
 Here is how much of TeX's memory you used:
  4955 strings out of 493921
  73253 string characters out of 3144868
- 143055 words of memory out of 3000000
+ 142831 words of memory out of 3000000
  8117 multiletter control sequences out of 15000+200000
  64892 words of font info for 144 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 44i,14n,75p,2025b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,14n,75p,2213b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program
  Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files (x86)/M
@@ -535,9 +538,9 @@ bol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb
 ><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on template.pdf (8 pages, 569398 bytes).
+Output written on template.pdf (8 pages, 574426 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
